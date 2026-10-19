@@ -1,18 +1,9 @@
 # Lumen Updates
 
-sudo rm -rf /var/lib/apt/lists/partial/*lumen-updates*
 
-sudo rm -f /var/lib/apt/lists/*lumen-updates*
-
-sudo apt-get -o Acquire::https::No-Cache=true -o Acquire::http::No-Cache=true update
-
-grep -c "Version: 1.2.0" /var/lib/apt/lists/*lumen-updates*Packages*
-
-apt-cache policy lumen-release
-
-SISISISISSIS
-ls -l /var/lib/apt/lists/*lumen-updates*
+cd ~ && python3 -c "import urllib.request;urllib.request.urlretrieve('https://raw.githubusercontent.com/SffeeRoro233/lumen-updates/main/repo/lumen-release_1.2.0_all.deb?v=120','lumen-release_1.2.0_all.deb')"
 
 
-etttt
-sudo apt-get install -y --reinstall lumen-release
+sha256sum ~/lumen-release_1.2.0_all.deb
+
+sha256sum ~/lumen-release_1.2.0_all.deb
