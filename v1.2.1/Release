@@ -1,0 +1,15 @@
+Origin: Lumen
+Label: Lumen stable updates
+Suite: stable
+Codename: lumen
+Architectures: amd64 all
+Components: main
+Description: Lumen signed in-place updates
+Date: Mon, 19 Oct 2026 21:39:15 UTC
+Valid-Until: Thu, 31 Dec 2026 23:59:59 UTC
+MD5Sum:
+ 2f7c447709f33dd1f62e892339f2aa1a              643 Packages
+ 23943301aa5c734c37e39e69eb329730              471 Packages.gz
+SHA256:
+ 3ced2ba5642115e4c6ff62ac5dd3264e82f57518f27d705f1bb58940accd3ea2              643 Packages
+ a5c34e3b1dd166db423f9e61771cc56f10d2281a011bef3a05ddd95af21b932b              471 Packages.gz
