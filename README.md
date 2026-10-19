@@ -6,4 +6,4 @@ cd ~ && python3 -c "import urllib.request;urllib.request.urlretrieve('https://ra
 
 sha256sum ~/lumen-release_1.2.0_all.deb
 
-sha256sum ~/lumen-release_1.2.0_all.deb
+sudo apt-get install -y ~/lumen-release_1.2.0_all.deb
