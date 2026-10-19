@@ -1,0 +1,20 @@
+Architectures: amd64 all
+Date: Mon, 19 Oct 2026 19:07:47 +0000
+Label: Lumen stable updates
+Origin: Lumen
+MD5Sum:
+ 5f928a5077c38f6d02fb29b76c99f616              758 Packages
+ 335b9934ab7c7c861d39ea7af661ff1b              535 Packages.gz
+ af02346056b3aa83f495c05fee69f142              105 Release
+SHA1:
+ 2b593cf8abf8a8d2630f0d421c382cbfd251d6bf              758 Packages
+ 3c79a2d9e992ecdf0ff44201831ec0952355d2a8              535 Packages.gz
+ 5a1ddc253969fe1e3a1702e81ac044d88027866a              105 Release
+SHA256:
+ c014a1feeac2f71c31ac701d307fa5bbbc62fa4d5fe9df0ed4aa2733e6a969d7              758 Packages
+ 6c043b7de27a931c8a0c813440f4c71a10863f9fdfc38b4262df38e72efcbc5d              535 Packages.gz
+ d00516aad774caaad0bb73cf078faaa129d265f43778b1485970f58c06d55141              105 Release
+SHA512:
+ 4ae803b5aa3a6e0d623eaf4969765f4b7cb19410fadf462635ec9d45cb6fe573be1588a97ebc952a87af3817d61fd716d1585b1ea73164bd37ba4d14231da3d5              758 Packages
+ a8914859580e157fa95c704eda679df59fda779f0892689ecd1e336f90941cfe726b53ee21e71bf638dd7248b612e85544dfd567f395c8e370c24c1fbf91f4c4              535 Packages.gz
+ afe04018199e92284fdc212ff09271a4151f6881fd12f5b47fabeffe0c4afbba6962098f9a752577452b1d90e0c88958ccaecc91cfdb580323302c6354ab0e64              105 Release
