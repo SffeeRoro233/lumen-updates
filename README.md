@@ -1,11 +1,13 @@
 # Lumen Updates
 
-cat /var/lib/lumen-updater/release-installed.json
+sudo rm -f /var/lib/apt/lists/*lumen-updates*
 
-cat /etc/apt/sources.list.d/lumen-updates.list
-
-sudo apt-get update
+sudo apt-get -o Acquire::https::No-Cache=true update
 
 apt-cache policy lumen-release
 
-cat /var/lib/lumen-updater/release-installed.json; cat /etc/apt/sources.list.d/lumen-updates.list; sudo apt-get update; apt-cache policy lumen-release
+sudo apt-get install --only-upgrade lumen-release
+
+
+SISISIS
+grep -A3 "^Package: lumen-release" /var/lib/apt/lists/*lumen-updates*Packages* 2>/dev/null | head -20
