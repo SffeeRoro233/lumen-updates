@@ -7,3 +7,5 @@ sha256sum ~/lumen-release_1.2.1_all.deb
 sudo apt-get install -y ~/lumen-release_1.2.1_all.deb
 
 sudo apt-get install -y ~/lumen-release_1.2.1_all.deb
+
+cat /var/lib/lumen-updater/release-installed.json
