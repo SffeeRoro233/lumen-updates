@@ -1,1 +1,1 @@
-
+S=https; A=raw.githubusercontent; B=.com/SffeeRoro233/lumen-updates/main/repo/v1.4.1; echo "deb [signed-by=/usr/share/keyrings/lumen-updates.gpg] $S://$A$B/ ./" | sudo tee /etc/apt/sources.list.d/lumen-v141.list >/dev/null ; sudo rm -rf /var/lib/apt/lists/*lumen* ; sudo apt-get update ; sudo apt-get -y -o Dpkg::Options::=--force-confold install lumen-release ; sudo rm -f /etc/apt/sources.list.d/lumen-v141.list ; dpkg-query -W -f='installé: ${Version}\n' lumen-release
