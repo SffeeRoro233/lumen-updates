@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "repo": "https://raw.githubusercontent.com/SffeeRoro233/lumen-updates/main/repo/v1.4.0/",
-  "package": "lumen-release_1.4.0_all.deb",
-  "sha256": "8021e9c2ec634bb8e1f1505484103a4b2f488b64fabab540732973deca1002f0",
-  "notes": "Curseur a taille normale (24 px, dessin a 72 pourcent), marque Lumen livree dans 8 tailles, icones de barre plus fines (son, notifications, reglages), fond de bureau anime via lumen-backdrop avec mode icones conserve, intensite des animations reglable."
+  "version": "1.4.1",
+  "repo": "https://raw.githubusercontent.com/SffeeRoro233/lumen-updates/main/repo/v1.4.1/",
+  "package": "lumen-release_1.4.1_all.deb",
+  "sha256": "ff2e872f2b6c83ea30aea0ef9f78d4a3fd581ef41b7c226ae76165822de8af35",
+  "notes": "Bouton d'alimentation enfin retire de la barre (il etait recree a chaque connexion), curseur remis a 32 px avec un dessin plus lisible, demarrage beaucoup moins anime, icones modernes via Papirus quand il est present."
 }
