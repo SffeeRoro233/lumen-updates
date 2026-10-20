@@ -1,0 +1,25 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Lumen
+Label: Lumen stable updates
+Suite: stable
+Codename: lumen
+Architectures: amd64 all
+Components: main
+Description: Lumen signed in-place updates
+Date: Tue, 20 Oct 2026 10:34:12 UTC
+Valid-Until: Thu, 31 Dec 2026 23:59:59 UTC
+MD5Sum:
+ 45fa1c22f1890929a136140c187f0707              667 Packages
+ df31826a598cf2413cc48a1d107c1a61              485 Packages.gz
+SHA256:
+ 9c22da0a39f8bfddf9def0279d6919f2a03a3c457f33e2313fcc746cc5b15a3a              667 Packages
+ ac090af8dc07b0f4b4d2c2ffae351a88baaed613823284861dbd806e261d63ee              485 Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQTt7yOE4oTugbowhZk1/2VJ98rgxAUCatdDpAAKCRA1/2VJ98rg
+xCQTAP92udDxjGYbn+okrC9zNZ43RPMJvFWn06DMJptVDmdIgQD/fOgU2+ukq+rq
+4hLwm7lkCnXwhHT3FnyjEbgJ1KKx6AU=
+=mdpk
+-----END PGP SIGNATURE-----
