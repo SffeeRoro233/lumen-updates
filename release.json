@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
-  "repo": "https://raw.githubusercontent.com/SffeeRoro233/lumen-updates/main/repo/v1.3.0/",
-  "package": "lumen-release_1.3.0_all.deb",
-  "sha256": "0a7b2e380697d61e282e5d1a5e139b0c71247cb5c43df20559986c27f698a9cb",
-  "notes": "Barre superieure redessinee, menu de session, horloge agrandie, ecran de demarrage restaure et anime."
+  "version": "1.3.2",
+  "repo": "https://raw.githubusercontent.com/SffeeRoro233/lumen-updates/main/repo/v1.3.2/",
+  "package": "lumen-release_1.3.2_all.deb",
+  "sha256": "50eb07983b3419b808f8f139b4aaec9fe16ed2ddea3c69aeda581cf4f80163c4",
+  "notes": "Correctif de mise a jour : le panneau Mises a jour compare desormais la version reellement installee et ne propose plus une version deja presente. Panneau d'applications refait, bouton eteindre retire de la barre, ecran de demarrage anime."
 }
