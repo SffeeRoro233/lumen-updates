@@ -1,0 +1,15 @@
+Package: lumen-release
+Version: 1.3.1
+Architecture: all
+Maintainer: Lumen OS Project <updates@lumen.invalid>
+Depends: python3, python3-gi, python3-apt, gir1.2-gtk-3.0, policykit-1 | polkitd, apt, ca-certificates, locales, firefox-esr-l10n-fr
+Filename: ./lumen-release_1.3.1_all.deb
+Size: 1014728
+MD5sum: ea30c63ab9e667ab466dc0f79bff9f40
+SHA1: b9cacc4d245fe7a311e0cc60bac75b7540f3387b
+SHA256: 021863ac2f14d127bee35c55704bf17db14ea385fcbaae4a6b501cb062f5eab0
+Section: admin
+Priority: optional
+Description: Lumen 1.3.1 interface (bar, applications panel, session actions, animated boot splash)
+ Reworked applications panel with session actions, power button removed from the
+ bar, visible boot splash animation. In-place update, no ISO reinstall.
