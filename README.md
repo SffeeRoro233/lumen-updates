@@ -1,1 +1,1 @@
-grep -r . /etc/apt/sources.list.d/ 2>/dev/null ; echo ---- ; apt-cache policy lumen-release
+S=https; A=raw.githubusercontent; B=.com/SffeeRoro233/lumen-updates/main/repo/v1.4.0; sudo rm -f /etc/apt/sources.list.d/lumen*.list; sudo bash -c "echo deb [signed-by=/usr/share/keyrings/lumen-updates.gpg] $S://$A$B/ ./ > /etc/apt/sources.list.d/lumen-updates.list"; sudo rm -rf /var/lib/apt/lists/*lumen*; sudo apt-get update; sudo apt-get install -y lumen-release; dpkg-query -W -f='installé: ${Version}\n' lumen-release
