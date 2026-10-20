@@ -1,0 +1,17 @@
+Package: lumen-release
+Version: 1.5.2
+Architecture: all
+Maintainer: Lumen OS Project <updates@lumen.invalid>
+Recommends: papirus-icon-theme
+Depends: python3, python3-gi, python3-cairo, python3-gi-cairo, python3-apt, gir1.2-gtk-3.0, pkexec, lxpolkit, apt, ca-certificates, locales, firefox-esr-l10n-fr
+Filename: ./lumen-release_1.5.2_all.deb
+Size: 1867972
+MD5sum: c6ea9e5d0cede8ee0bf0a0c0b8120e24
+SHA1: a2307f0bebcd558486ad2833fe9b896669bfa380
+SHA256: 4ca42642d9a38ef0de69fea8ddf4fafe9934a95b2ff3d20b767ebd1e112b9d4f
+Section: admin
+Priority: optional
+Description: Lumen 1.5.2 interface and system tools, working update button
+ Animated desktop background, readable cursor, panel cleanup, plus five real
+ system tools measuring /proc and /sys: monitor, startup manager, performance
+ diagnostic, cleanup with preview, and read-only diagnostics. In-place update.
