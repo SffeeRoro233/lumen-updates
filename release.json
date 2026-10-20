@@ -1,6 +1,7 @@
 {
-  "version": "1.2.3",
-  "repo": "https://raw.githubusercontent.com/SffeeRoro233/lumen-updates/main/repo/v1.2.3/",
-  "package": "lumen-release_1.2.3_all.deb",
-  "sha256": "231d88ab68ace24bb6500f04029130fdf2d61f7730b8d17b1efc43aad698df1f"
+  "version": "1.3.0",
+  "repo": "https://raw.githubusercontent.com/SffeeRoro233/lumen-updates/main/repo/v1.3.0/",
+  "package": "lumen-release_1.3.0_all.deb",
+  "sha256": "0a7b2e380697d61e282e5d1a5e139b0c71247cb5c43df20559986c27f698a9cb",
+  "notes": "Barre superieure redessinee, menu de session, horloge agrandie, ecran de demarrage restaure et anime."
 }
