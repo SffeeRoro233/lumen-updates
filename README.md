@@ -1,3 +1,6 @@
 # Lumen Updates
 
-sudo mv /usr/share/locale/fr/LC_MESSAGES/lumen.mo /usr/share/locale/fr/LC_MESSAGES/lumen.mo.casse
+command -v sudo || echo "sudo absent"; ls -l /usr/lib/lumen/update-helper
+
+
+su -c '/usr/lib/lumen/update-helper release-upgrade'
