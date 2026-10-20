@@ -1,7 +1,7 @@
 {
-  "version": "1.4.1",
-  "repo": "https://raw.githubusercontent.com/SffeeRoro233/lumen-updates/main/repo/v1.4.1/",
-  "package": "lumen-release_1.4.1_all.deb",
-  "sha256": "ff2e872f2b6c83ea30aea0ef9f78d4a3fd581ef41b7c226ae76165822de8af35",
-  "notes": "Bouton d'alimentation enfin retire de la barre (il etait recree a chaque connexion), curseur remis a 32 px avec un dessin plus lisible, demarrage beaucoup moins anime, icones modernes via Papirus quand il est present."
+  "version": "1.5.0",
+  "repo": "https://raw.githubusercontent.com/SffeeRoro233/lumen-updates/main/repo/v1.5.0/",
+  "package": "lumen-release_1.5.0_all.deb",
+  "sha256": "0ff742abd9dbcd0f819185d9234ce8b32d2ea6aeeff7d0e9b6124fe7d96cbdb5",
+  "notes": "Cinq outils systeme reels : Moniteur, Demarrage, Performances, Nettoyage, Diagnostics. Corrige le bouton (null) de la barre et nettoie les configurations existantes."
 }
