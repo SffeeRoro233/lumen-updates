@@ -1,0 +1,17 @@
+Package: lumen-release
+Version: 1.5.0
+Architecture: all
+Maintainer: Lumen OS Project <updates@lumen.invalid>
+Recommends: papirus-icon-theme
+Depends: python3, python3-gi, python3-cairo, python3-gi-cairo, python3-apt, gir1.2-gtk-3.0, policykit-1 | polkitd, apt, ca-certificates, locales, firefox-esr-l10n-fr
+Filename: ./lumen-release_1.5.0_all.deb
+Size: 1751024
+MD5sum: 4d40449344cf8342fe782f77a32860c8
+SHA1: 982f937736d54a7ce8fa9246611b3cad3fbe1ba2
+SHA256: 0ff742abd9dbcd0f819185d9234ce8b32d2ea6aeeff7d0e9b6124fe7d96cbdb5
+Section: admin
+Priority: optional
+Description: Lumen 1.5.0 interface and system tools (monitor, startup, performance, cleanup, diagnostics)
+ Animated desktop background, readable cursor, panel cleanup, plus five real
+ system tools measuring /proc and /sys: monitor, startup manager, performance
+ diagnostic, cleanup with preview, and read-only diagnostics. In-place update.
