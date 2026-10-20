@@ -1,1 +1,1 @@
-S=https; A=raw.githubusercontent; B=.com/SffeeRoro233/lumen-updates/main/repo/v1.3.0; sudo rm -f /etc/apt/sources.list.d/lumen.list /etc/apt/sources.list.d/lumen-updates.list; sudo bash -c "echo deb [trusted=yes] $S://$A$B/ ./ > /etc/apt/sources.list.d/lumen.list"; sudo apt-get update; sudo apt-get install -y lumen-release
+sudo apt-get update ; sudo apt-get install -y lumen-release
