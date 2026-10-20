@@ -1,0 +1,16 @@
+Package: lumen-release
+Version: 1.4.1
+Architecture: all
+Maintainer: Lumen OS Project <updates@lumen.invalid>
+Recommends: papirus-icon-theme
+Depends: python3, python3-gi, python3-cairo, python3-apt, gir1.2-gtk-3.0, policykit-1 | polkitd, apt, ca-certificates, locales, firefox-esr-l10n-fr
+Filename: ./lumen-release_1.4.1_all.deb
+Size: 1736268
+MD5sum: 200187730722f03a7794f48a0088401a
+SHA1: f7b1379761d9df1b80ebb745138a54d0f4051ef2
+SHA256: ff2e872f2b6c83ea30aea0ef9f78d4a3fd581ef41b7c226ae76165822de8af35
+Section: admin
+Priority: optional
+Description: Lumen 1.4.1 interface (bar, applications panel, animated backdrop, modern icons)
+ Animated desktop background, normal-size cursor theme, Lumen brand icons,
+ tighter panel icons. In-place update, no ISO reinstall.
