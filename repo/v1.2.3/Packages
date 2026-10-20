@@ -1,0 +1,15 @@
+Package: lumen-release
+Version: 1.2.3
+Architecture: all
+Maintainer: Lumen OS Project <updates@lumen.invalid>
+Depends: python3, python3-gi, python3-apt, gir1.2-gtk-3.0, policykit-1 | polkitd, apt, ca-certificates, locales, firefox-esr-l10n-fr
+Filename: ./lumen-release_1.2.3_all.deb
+Size: 94888
+MD5sum: 622c65ee14337c4eb45aa3f4298863b7
+SHA1: 8df03790803d92272c821eac1aa3abefd7c8a966
+SHA256: 231d88ab68ace24bb6500f04029130fdf2d61f7730b8d17b1efc43aad698df1f
+Section: admin
+Priority: optional
+Description: Lumen Liquid Glass interface, Spotlight search, cache-safe signed updater, safe session migration
+ In-place package updates, no ISO reinstall or disk partitioning.
+
