@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "repo": "https://raw.githubusercontent.com/SffeeRoro233/lumen-updates/main/repo/v1.2.1/",
-  "package": "lumen-release_1.2.1_all.deb",
-  "sha256": "3b20fd2e485352d9e645c60940cbd827ef21b22e58a3e85ce9f5c09f9150abbf"
+  "version": "1.2.2",
+  "repo": "https://raw.githubusercontent.com/SffeeRoro233/lumen-updates/main/repo/v1.2.2/",
+  "package": "lumen-release_1.2.2_all.deb",
+  "sha256": "10f9da5b05dde24bbf5b1d00b9336d4010594077175f5658f77553be3afe32c0"
 }
