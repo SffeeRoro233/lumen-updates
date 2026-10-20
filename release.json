@@ -1,7 +1,0 @@
-{
-  "version": "1.5.0",
-  "repo": "https://raw.githubusercontent.com/SffeeRoro233/lumen-updates/main/repo/v1.5.0/",
-  "package": "lumen-release_1.5.0_all.deb",
-  "sha256": "0ff742abd9dbcd0f819185d9234ce8b32d2ea6aeeff7d0e9b6124fe7d96cbdb5",
-  "notes": "Cinq outils systeme reels : Moniteur, Demarrage, Performances, Nettoyage, Diagnostics. Corrige le bouton (null) de la barre et nettoie les configurations existantes."
-}
