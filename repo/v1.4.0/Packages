@@ -1,0 +1,15 @@
+Package: lumen-release
+Version: 1.4.0
+Architecture: all
+Maintainer: Lumen OS Project <updates@lumen.invalid>
+Depends: python3, python3-gi, python3-cairo, python3-apt, gir1.2-gtk-3.0, policykit-1 | polkitd, apt, ca-certificates, locales, firefox-esr-l10n-fr
+Filename: ./lumen-release_1.4.0_all.deb
+Size: 1144796
+MD5sum: ea9e6e2171922a1de15e27d7f38e78f5
+SHA1: 07c4d1f1a5049d22a38a396c999da6e1d5114c66
+SHA256: 8021e9c2ec634bb8e1f1505484103a4b2f488b64fabab540732973deca1002f0
+Section: admin
+Priority: optional
+Description: Lumen 1.4.0 interface (bar, applications panel, animated backdrop, normal cursor)
+ Animated desktop background, normal-size cursor theme, Lumen brand icons,
+ tighter panel icons. In-place update, no ISO reinstall.
