@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
-  "repo": "https://raw.githubusercontent.com/SffeeRoro233/lumen-updates/main/repo/v1.5.1/",
-  "package": "lumen-release_1.5.1_all.deb",
-  "sha256": "6c0e05692fc9bbdea6977f158c0bec47dbfc491db5e6b11c0f290e4a23c75b9b",
-  "notes": "Le fond du demarrage bouge desormais comme des vagues, avec la meme oeuvre que le bureau. Cinq outils systeme, bouton d'allumage retire, curseur lisible."
+  "version": "1.5.2",
+  "repo": "https://raw.githubusercontent.com/SffeeRoro233/lumen-updates/main/repo/v1.5.2/",
+  "package": "lumen-release_1.5.2_all.deb",
+  "sha256": "4ca42642d9a38ef0de69fea8ddf4fafe9934a95b2ff3d20b767ebd1e112b9d4f",
+  "notes": "Le bouton Installer fonctionne : pkexec et l'agent d'authentification sont installes, et le panneau explique tout echec au lieu de ne rien faire. Fond de demarrage anime."
 }
