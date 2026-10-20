@@ -1,0 +1,15 @@
+Package: lumen-release
+Version: 1.3.0
+Architecture: all
+Maintainer: Lumen OS Project <updates@lumen.invalid>
+Depends: python3, python3-gi, python3-apt, gir1.2-gtk-3.0, policykit-1 | polkitd, apt, ca-certificates, locales, firefox-esr-l10n-fr
+Filename: ./lumen-release_1.3.0_all.deb
+Size: 1012308
+MD5sum: 36f3aaea1c895261876f9e2ea6af7c60
+SHA1: aaced5e420bfe7b114f9543f8d14895373445203
+SHA256: 0a7b2e380697d61e282e5d1a5e139b0c71247cb5c43df20559986c27f698a9cb
+Section: admin
+Priority: optional
+Description: Lumen 1.3 interface (bar, session menu, boot splash), Spotlight search, signed updater
+ Redesigned top bar, new session menu, smoother boot splash. In-place update,
+ no ISO reinstall and no partition change.
