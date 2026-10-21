@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
-  "repo": "https://raw.githubusercontent.com/SffeeRoro233/lumen-updates/main/repo/v1.5.2/",
-  "package": "lumen-release_1.5.2_all.deb",
-  "sha256": "4ca42642d9a38ef0de69fea8ddf4fafe9934a95b2ff3d20b767ebd1e112b9d4f",
-  "notes": "Le bouton Installer fonctionne : pkexec et l'agent d'authentification sont installes, et le panneau explique tout echec au lieu de ne rien faire. Fond de demarrage anime."
+  "version": "1.5.3",
+  "repo": "https://raw.githubusercontent.com/SffeeRoro233/lumen-updates/main/repo/v1.5.3/",
+  "package": "lumen-release_1.5.3_all.deb",
+  "sha256": "000f5210e773c56cf8b7cce26c4c3aea4e3f0b1a8ffbc0fda8a69fc899415948",
+  "notes": "Le panneau ne dit plus qu'une mise a jour est disponible quand elle est deja installee. Bouton d'installation avec demande de mot de passe. Fond de demarrage anime."
 }
