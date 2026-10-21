@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Lumen
+Label: Lumen OS
+Suite: stable
+Codename: stable
+Version: 1.5.3
+Architectures: amd64 all
+Components: main
+Description: Lumen OS signed updates
+Date: Wed, 21 Oct 2026 11:58:00 UTC
+MD5Sum:
+ ea8ed93559dbada79df25214bee2fc2d              853 Packages
+ 13260f5ee08fc7a940cccb24bb671329              561 Packages.gz
+SHA1:
+ 2fef199038ffb0d6936a179c8077c1f2fb838090              853 Packages
+ 42007aa875d813f6f97fd47bcf41b553090f425d              561 Packages.gz
+SHA256:
+ 27147f73dffe9f9325aee4b3f2ebdaa5a3f172c3670947e3ad9d225d7eac2cb1              853 Packages
+ b87d96feb9d98c9ce1e3b7e2420a30faf9689be613124b3f7350b371427eaf8f              561 Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTt7yOE4oTugbowhZk1/2VJ98rgxAUCatioyAAKCRA1/2VJ98rg
+xBkaAQCwh3R+zYx8Rhgd6cqAXSqxC3x1PCyCeuCQLRZ91jvvaAEApvPvrbp57Rn2
+GhERV6sGKRpcXyhXOzo8x3nsaoeprwM=
+=Ez7a
+-----END PGP SIGNATURE-----
