@@ -1,0 +1,17 @@
+Package: lumen-release
+Version: 1.5.3
+Architecture: all
+Maintainer: Lumen OS Project <updates@lumen.invalid>
+Recommends: papirus-icon-theme
+Depends: python3, python3-gi, python3-cairo, python3-gi-cairo, python3-apt, gir1.2-gtk-3.0, pkexec, lxpolkit, apt, ca-certificates, locales, firefox-esr-l10n-fr
+Filename: ./lumen-release_1.5.3_all.deb
+Size: 1868112
+MD5sum: b820eefa32a8adb744993c3c23236cbb
+SHA1: 6e2e2fb9ad7eb4082363e1fe00a24848933b9362
+SHA256: 000f5210e773c56cf8b7cce26c4c3aea4e3f0b1a8ffbc0fda8a69fc899415948
+Section: admin
+Priority: optional
+Description: Lumen 1.5.3 interface and system tools, honest update status
+ Animated desktop background and boot splash, readable cursor, panel cleanup,
+ five real system tools, a working administrator prompt for updates, and a
+ status line that never claims an update is available once it is installed.
